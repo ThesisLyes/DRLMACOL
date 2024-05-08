@@ -1,0 +1,11 @@
+tqdm
+flake8
+tox
+Sphinx
+black
+torch
+progress
+pylint
+autoflake
+isort
+numpy
